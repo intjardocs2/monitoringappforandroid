@@ -1,9 +1,13 @@
 Best 8 Free Phone Monitor Apps for Android and iPhone in 2025
 ==============================================================
 
-.. image:: _static/chatNow.png
-   :target: https://t.me/spyremotely
-   :alt: Chat Now
+.. raw:: html
+
+   <div align="center">
+     <a href="https://t.me/spyremotely" target="_blank">
+       <img src="_static/chatNow.png" alt="Chat Now" style="width: 200px;" />
+     </a>
+   </div>
 
 Best Phone Monitoring App for Android: Top Picks and Features
 --------------------------------------------------------------
